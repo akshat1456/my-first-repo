@@ -1,0 +1,28 @@
+🔹 What is DevOps?
+
+DevOps = Development + Operations.
+It’s a culture + set of practices + tools that help software developers (who write code) and operations teams (who deploy and manage code) work together smoothly.
+
+Instead of working separately, DevOps makes them collaborate so that software is built, tested, and delivered faster, more reliable, and continuous.
+
+🔹 Key Ideas
+
+Automation → Code builds, testing, deployment, monitoring.
+
+Continuous Integration (CI) → Developers keep merging code changes frequently.
+
+Continuous Delivery/Deployment (CD) → Code is automatically tested and released to production.
+
+Collaboration → Dev + Ops work as one team.
+
+Monitoring & Feedback → Constant tracking of software in real-world use.
+
+🔹 Benefits
+
+Faster software releases 🚀
+
+Fewer bugs 🐞
+
+Better collaboration 🤝
+
+Scalable and reliable systems ☁️
